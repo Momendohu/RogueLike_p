@@ -820,7 +820,7 @@ public class Enemy : MonoBehaviour {
 
     private void Error (int errorCode) {
         Debug.LogError("エラーが発生しました" + " オブジェクト名:" + gameObject.name + " コード:" + errorCode);
-        EditorApplication.isPaused = true;
+        //EditorApplication.isPaused = true;
         //EditorApplication.isPlaying = false;
     }
 }
