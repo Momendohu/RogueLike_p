@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e0bd54373c4674b42a4495bdce9a89ba
+timeCreated: 1511703831
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Corporate Logo Bold
+  fontNames:
+  - Corporate Logo Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
